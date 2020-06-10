@@ -2,8 +2,12 @@
   font-size: 3.0rem;
   font-weight: 300;
   line-height: 1.2;
+  padding-bottom: 20px;
 }
 .logo {
   width: 450px;
   height: 300px;
+}
+.jumbotron {
+  font-family: sans-serif;
 }
